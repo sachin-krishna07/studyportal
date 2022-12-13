@@ -140,7 +140,7 @@
     width: 300px;
     padding: 20px;
     margin-bottom: 30px;
-    background-color: rgb(255, 255, 240);
+    background-color: white;
 }
 .box img{
     margin-bottom: 20px;
@@ -493,7 +493,7 @@ body {
 
 
 
-  @media (max-width:900px) {
+  @media (max-width:1000px) {
     .navbar > .nav-btn {
       display: inline-block;
       position: absolute;
